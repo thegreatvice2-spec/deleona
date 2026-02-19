@@ -37,8 +37,3 @@ const PORT = process.env.PORT || 5000
 app.listen(PORT, () => {
   console.log(`Servidor corriendo en puerto ${PORT}`)
 })
-node_modules
-frontend/node_modules
-backend/node_modules
-frontend/build
-.env
